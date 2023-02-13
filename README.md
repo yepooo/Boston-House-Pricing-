@@ -16,3 +16,16 @@ A Boston Housing Price prediction model using linear regression involves the fol
 7.Make Predictions: Finally, you can use the trained model to make predictions on new data points and evaluate its performance.
 
 
+TECHNOLOGIES USED:
+
+1.Python
+
+2.Numpy and Pandas for data cleaning
+
+3.Matplotlib for data visualization
+
+4.Sklearn for model building
+
+5.Jupyter notebook
+
+
